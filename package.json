@@ -7,7 +7,7 @@
   "author": "Arda TANRIKULU",
   "dependencies": {
     "@react-native-community/netinfo": "6.0.0",
-    "react-native-sync-localstorage": "0.0.3"
+    "react-native-sync-localstorage": "https://github.com/bmanturner/react-native-sync-localstorage/archive/961c25b3f2f553527748fcd9c658f33170404968.tar.gz"
   },
   "peerDependencies": {
     "react-native": "^0.60.0 || ^0.61.0 || ^0.62.0 || ^0.63.0 || ^0.64.0"
